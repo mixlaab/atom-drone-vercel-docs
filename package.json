@@ -1,0 +1,19 @@
+{
+  "name": "atom-drone-vercel-docs",
+  "version": "1.0.0",
+  "description": "Documentation for Atom Drone project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixlaab/atom-drone-vercel-docs.git"
+  },
+  "author": "Victor Medrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixlaab/atom-drone-vercel-docs/issues"
+  },
+  "homepage": "https://github.com/mixlaab/atom-drone-vercel-docs#readme"
+}
